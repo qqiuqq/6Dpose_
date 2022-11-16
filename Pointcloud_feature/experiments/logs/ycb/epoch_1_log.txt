@@ -1,0 +1,19 @@
+2022-06-13 14:32:56,499 : Train time 00h 00m 00s, Training started
+2022-06-13 14:32:59,426 : Train time 00h 00m 02s Epoch 1 Batch 1 Frame 4 Avg_dis:0.004708959488198161
+2022-06-13 14:32:59,943 : Train time 00h 00m 03s Epoch 1 Batch 2 Frame 8 Avg_dis:0.005107390868943185
+2022-06-13 14:33:00,933 : Train time 00h 00m 04s Epoch 1 Batch 3 Frame 12 Avg_dis:0.006610585260204971
+2022-06-13 14:33:01,127 : Train time 00h 00m 04s Epoch 1 Batch 4 Frame 16 Avg_dis:0.0065760238212533295
+2022-06-13 14:33:01,307 : Train time 00h 00m 04s Epoch 1 Batch 5 Frame 20 Avg_dis:0.008507818332873285
+2022-06-13 14:33:01,531 : Train time 00h 00m 05s Epoch 1 Batch 6 Frame 24 Avg_dis:0.014892426203005016
+2022-06-13 14:33:01,749 : Train time 00h 00m 05s Epoch 1 Batch 7 Frame 28 Avg_dis:0.006159278302220628
+2022-06-13 14:33:01,970 : Train time 00h 00m 05s Epoch 1 Batch 8 Frame 32 Avg_dis:0.005143712856806815
+2022-06-13 14:33:02,200 : Train time 00h 00m 05s Epoch 1 Batch 9 Frame 36 Avg_dis:0.00887311075348407
+2022-06-13 14:33:02,415 : Train time 00h 00m 05s Epoch 1 Batch 10 Frame 40 Avg_dis:0.006093435105867684
+2022-06-13 14:33:02,590 : Train time 00h 00m 06s Epoch 1 Batch 11 Frame 44 Avg_dis:0.006085430504754186
+2022-06-13 14:33:02,850 : Train time 00h 00m 06s Epoch 1 Batch 12 Frame 48 Avg_dis:0.011505288537591696
+2022-06-13 14:33:03,056 : Train time 00h 00m 06s Epoch 1 Batch 13 Frame 52 Avg_dis:0.006101953040342778
+2022-06-13 14:33:03,260 : Train time 00h 00m 06s Epoch 1 Batch 14 Frame 56 Avg_dis:0.004719912598375231
+2022-06-13 14:33:03,785 : Train time 00h 00m 07s Epoch 1 Batch 15 Frame 60 Avg_dis:0.0064284527907148
+2022-06-13 14:33:03,960 : Train time 00h 00m 07s Epoch 1 Batch 16 Frame 64 Avg_dis:0.008124742220388725
+2022-06-13 14:33:04,345 : Train time 00h 00m 07s Epoch 1 Batch 17 Frame 68 Avg_dis:0.00567828826024197
+2022-06-13 14:33:04,525 : Train time 00h 00m 08s Epoch 1 Batch 18 Frame 72 Avg_dis:0.004775386885739863
